@@ -1,1 +1,1 @@
-var yearArray = ['one',2,true,'three',4,5];
+var yearArray = [one: "a",2,true,three:"c",4,5];
