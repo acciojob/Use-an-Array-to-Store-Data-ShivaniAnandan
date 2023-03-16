@@ -1,1 +1,25 @@
-var yearArray = ["one",2,true,"three",4,5];
+let yourArray = [
+  [
+    {
+      one: 1,
+      two: 2
+    },
+    {
+      three: 3,
+      four: 4
+    }
+  ],
+  [
+    {
+      a: "a",
+      b: "b"
+    },
+    {
+      c: "c",
+      d: "d"
+    }
+  ],
+  true,
+  42,
+  "hello world"
+];
